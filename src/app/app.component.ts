@@ -9,4 +9,7 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'angular-tryouts';
+  city = 'San Francisco';
+  number1 = 10;
+  number2 = 10;
 }
